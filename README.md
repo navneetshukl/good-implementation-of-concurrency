@@ -1,5 +1,5 @@
 ### This repository implement the better way to use concurrency in golang.This has two code `unfair` and `fair` way. In `unfair` way the task to each goroutines is not distributed uniformly. In `fair` way the task to each goroutines is distributed uniformly.
-### I am writing code to calculate the total number of prime numbers from 1-100000000
+### I am writing code to calculate the total number of prime numbers from 1 - 100000000
 ## Output in unfair way
 
 PS D:\golang\good-implementation-of-concurrency\unfair> go run main.go<br>
